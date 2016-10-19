@@ -8,7 +8,8 @@
     "test": "test"
   },
   "dependencies": {
-    "express": "latest"
+    "express": "latest",
+    "nodemailer": "latest"
   },
   "repository": {
     "type": "git",
